@@ -37,7 +37,8 @@ The project includes the following tables:
 ---
 
 ## 🔗 ER Diagram
-![ER Diagram](ER_Diagram.png)
+<img width="977" height="673" alt="image" src="https://github.com/user-attachments/assets/270a85ae-b2b4-4ec3-afa4-d2abd7aac933" />
+
 
 ---
 
@@ -118,7 +119,7 @@ CREATE DATABASE AKATSUKI_MUSIC_STORE;
 ---
 
 ## 📽️ Presentation
-📄 [View Project PPT](docs/Project_Presentation.pdf)
+📄 [View Project PPT](Akatsuki_Music_Store/docs/Project_Presentation.pdf)
 
 ---
 
