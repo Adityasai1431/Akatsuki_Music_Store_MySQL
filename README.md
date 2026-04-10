@@ -91,7 +91,6 @@ LIMIT 1;
 ```
 AKATSUKI-Music-Store/
 │── sql/
-│   ├── schema.sql
 │   ├── queries.sql
 │── data/
 │   ├── playlist_track.csv
